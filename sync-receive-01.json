@@ -27,7 +27,7 @@
   "signalLevel": {
     "action": "reading",
     "type": "scalar",
-    "value": -35,
+    "value": -38,
     "unit": "dBm",
     "alarm": {
       "value": 0,
@@ -47,7 +47,7 @@
   "signalStrength": {
     "action": "reading",
     "type": "scalar",
-    "value": -18,
+    "value": -13,
     "unit": "dBm",
     "alarm": {
       "value": 0,
